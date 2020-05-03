@@ -9,3 +9,5 @@ Author : Vinoth R
 3 Last Screen Code
 
 4 Attachment (Image, Audio, Video) Code
+
+5 Hiding the last seen
